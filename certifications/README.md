@@ -1,4 +1,5 @@
-.
+# Certifications Structure
+```
 ├── Linkedin
 │   ├── Cloud
 │   │   ├── aws-api-gateway-with-http-lambda-dynamodb-and-iOS.pdf
@@ -19,5 +20,5 @@
 │           ├── go-essential-training.pdf
 │           └── learning-go.pdf
 └── README.md
-
+```
 10 directories, 10 files
