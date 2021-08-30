@@ -14,6 +14,7 @@ I will also be leaving short reviews on what I have read (No Spoilers!!!)
 
 * :performing_arts: Crime and Punishment - *Fyodor Dostoevsky*
 * :computer: CompTIA Security+ Get Certified Get Ahead - *Darril Gibson*
+* :performing_arts: Artemis Fowl - *Eoin Colfer*
 
 
 ## Currently Reading
