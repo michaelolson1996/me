@@ -15,12 +15,11 @@ I will also be leaving short reviews on what I have read (No Spoilers!!!)
 * :performing_arts: Crime and Punishment - *Fyodor Dostoevsky*
 * :computer: CompTIA Security+ Get Certified Get Ahead - *Darril Gibson*
 * :performing_arts: Artemis Fowl - *Eoin Colfer*
-
+* :performing_arts: The Hobbit - *J. R. R. Tolkien*
 
 ## Currently Reading
 
 * :computer: Site Reliability Engineering - *O'Reilly (Edited by Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy)*
-* :performing_arts: The Hobbit - *J. R. R. Tolkien*
 * :computer: Empire of the Summer Moon - *S. C. Gwynne*
 
 ## Plan On Reading
